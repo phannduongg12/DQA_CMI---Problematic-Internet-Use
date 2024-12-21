@@ -3,5 +3,7 @@ This repository contains the solution for the Kaggle competition "Child Mind Ins
 
 Team Members
 Lê Minh Quý - 22028190
+
 Phan Công Dương - 22028274
+
 Bùi Thị Ngọc Ánh - 22028145
